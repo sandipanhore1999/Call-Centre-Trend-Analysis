@@ -20,7 +20,7 @@ This task requires us to create a dashboard in Power BI that displays all the re
 * Calls per month: This KPI measures the volume of calls during different months.
 * Average speed of answer: This KPI measures the average time taken by agents to answer customer calls. 
 
-PWC Call Centre Trends Dashboard: https://app.powerbi.com/view?r=eyJrIjoiNzcwNjNjOWItZDYxNy00NWY3LWI1MDktMjAzZjRkMDMyYTA4IiwidCI6IjI1YzM4NGQ3LTBlMzAtNDQ3ZC04ZjM0LTRkMzMxMmEyOTdjMCJ9
+PWC Call Centre Trends Dashboard: https://app.powerbi.com/view?r=eyJrIjoiMjYwYjE3MWEtOWNmYS00ZDdiLWFmMjgtZDI0ZWZlYjFlODNjIiwidCI6IjI1YzM4NGQ3LTBlMzAtNDQ3ZC04ZjM0LTRkMzMxMmEyOTdjMCJ9
 
 
 # Task 3
@@ -43,7 +43,35 @@ This task requires us to define the appropriate KPIs for the retention manager b
 
 This task requires us to create a dashboard that displays the defined KPIs for the retention manager to track the customer retention rate. Write a short email to him (the engagement partner) explaining our findings, and include suggestions as to what needs to be changed:
 
-PWC Customer Retention Dashboard: https://app.powerbi.com/view?r=eyJrIjoiOGU5MjUwNmUtOWQwOS00YWIwLTk2Y2UtYjg0NGNhNjEwZWY3IiwidCI6IjI1YzM4NGQ3LTBlMzAtNDQ3ZC04ZjM0LTRkMzMxMmEyOTdjMCJ9
+PWC Customer Retention Dashboard: https://app.powerbi.com/view?r=eyJrIjoiZjM4NGM2NjItNmRlMS00NjQ2LWEwOWItMmJmOTRkMTMzMGQ5IiwidCI6IjI1YzM4NGQ3LTBlMzAtNDQ3ZC04ZjM0LTRkMzMxMmEyOTdjMCJ9
+
+# Task 4
+Gender balance in the executive suite:
+
+This task requires us to measure and analyze the gender balance in the executive suite and create appropriate KPIs based on the dataset. Calculating the following measures could help to define proper KPIs:
+
+* No. of men: This KPI measures the number of male employees in the executive suite.
+
+* No. of women: This KPI measures the number of female employees in the executive suite.
+
+* No. of leavers: This KPI measures the number of employees who left the company during the given period.
+
+* % employees promoted (FY21): This KPI measures the percentage of employees who were promoted in the financial year 2021.
+
+* % of women promoted: This KPI measures the percentage of female employees who were promoted during the given period.
+
+* % of hires men: This KPI measures the percentage of male employees who were hired during the given period.
+
+* % of hires women: This KPI measures the percentage of female employees who were hired during the given period.
+
+* % turnover: This KPI measures the percentage of employees who left the company during the given period.
+
+* Average performance rating: men: This KPI measures the average performance rating of male employees in the executive suite.
+
+* Average Performance rating: women: This KPI measures the average performance rating of female employees in the executive suite.
+
+PWC Diversity & Inclusion Dashboard: https://app.powerbi.com/view?r=eyJrIjoiMjYwYjE3MWEtOWNmYS00ZDdiLWFmMjgtZDI0ZWZlYjFlODNjIiwidCI6IjI1YzM4NGQ3LTBlMzAtNDQ3ZC04ZjM0LTRkMzMxMmEyOTdjMCJ9
+
 
 
 
