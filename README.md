@@ -70,13 +70,7 @@ This task requires us to measure and analyze the gender balance in the executive
 
 * Average Performance rating: women: This KPI measures the average performance rating of female employees in the executive suite.
 
-PWC Diversity & Inclusion Dashboard: https://app.powerbi.com/view?r=eyJrIjoiMjYwYjE3MWEtOWNmYS00ZDdiLWFmMjgtZDI0ZWZlYjFlODNjIiwidCI6IjI1YzM4NGQ3LTBlMzAtNDQ3ZC04ZjM0LTRkMzMxMmEyOTdjMCJ9
-
-
-
-
-
-
+PWC Diversity & Inclusion Dashboard: https://app.powerbi.com/view?r=eyJrIjoiYzU4MmU0ZTctMGNmNi00NjA0LWI2ZjUtN2NjZGNkYWQzMmE4IiwidCI6IjI1YzM4NGQ3LTBlMzAtNDQ3ZC04ZjM0LTRkMzMxMmEyOTdjMCJ9
 
 
 
